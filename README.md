@@ -1,4 +1,4 @@
-# Snake
+# Snake (Based on Tutorial)
 Training Agent to play Snake using Reinforcement Learning.
 
 This project is based majorly on this series of youtube tutorials - https://youtu.be/PJl4iabBEz0
